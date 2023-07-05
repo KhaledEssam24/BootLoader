@@ -1,0 +1,16 @@
+../Core/Src/bootloader.c:35:13:BL_fetch_host_command	16	static
+../Core/Src/bootloader.c:53:19:Identify_command	16	static
+../Core/Src/bootloader.c:107:23:Jump_To_APP	56	static,ignoring_inline_asm
+../Core/Src/bootloader.c:157:22:VH_CBL_GET_VER_CMD	40	static
+../Core/Src/bootloader.c:200:22:VH_CBL_GET_CID_CMD	40	static
+../Core/Src/bootloader.c:242:22:VH_CBL_GET_HELP_CMD	40	static
+../Core/Src/bootloader.c:301:22:VH_CBL_MEM_WRITE_CMD	16	static
+../Core/Src/bootloader.c:308:22:VH_CBL_FLASH_ERASE_CMD	16	static
+../Core/Src/bootloader.c:313:22:VH_CBL_GO_TO_ADDR_CMD	16	static
+../Core/Src/bootloader.c:318:22:VH_CBL_GET_RDP_STATUS_CMD	16	static
+../Core/Src/bootloader.c:325:22:VH_CBL_CHANGE_ROP_Level_CMD	16	static
+../Core/Src/bootloader.c:330:22:VH_CBL_OTP_READ_CMD	16	static
+../Core/Src/bootloader.c:335:22:VH_CBL_READ_SECTOR_STATUS_CMD	16	static
+../Core/Src/bootloader.c:340:22:VH_CBL_MEM_READ_CMD	16	static
+../Core/Src/bootloader.c:345:22:VH_CBL_ED_W_PROTECT_CMD	16	static
+../Core/Src/bootloader.c:350:5:__io_putchar	24	static
