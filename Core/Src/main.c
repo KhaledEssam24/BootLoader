@@ -103,9 +103,6 @@ int main(void)
 
     /* USER CODE BEGIN 3 */
 	  printf("Welcome from my BootLoader\n");
-	  printf("Welcome from my BootLoader\n");
-	  printf("Welcome from my BootLoader\n");
-
 	  BL_fetch_host_command();
 
   }
